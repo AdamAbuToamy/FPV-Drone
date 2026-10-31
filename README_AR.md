@@ -1,5 +1,7 @@
 # درون FPV — البناء والتشخيص والإصلاح
 
+> **قيد التطوير — مشروع شخصي مستمر.** ما زال العمل جاريًا على العتاد والبرمجيات والاختبارات.
+
 <img src="docs/media/drone-built.jpg" alt="الدرون الحقيقية على طاولة العمل" width="430">
 
 [فيديو نظرة عامة](docs/media/drone-bench-demo.mp4) · [فحص الاتجاه مع Betaflight](docs/media/betaflight-orientation-demo.mp4)
