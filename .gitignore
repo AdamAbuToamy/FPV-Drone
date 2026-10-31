@@ -1,0 +1,7 @@
+*.bin
+*.hex
+*.log
+.env
+.env.*
+__pycache__/
+.DS_Store
