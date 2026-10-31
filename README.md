@@ -2,9 +2,8 @@
 
 > **Work in progress — active personal project.** Hardware, software and testing are still being developed.
 
-<img src="docs/media/drone-built.jpg" alt="The real assembled FPV drone on the workbench" width="430">
+![Original drone repair-bench photo](docs/media/20260917_181246.jpg)
 
-[Watch the bench overview](docs/media/drone-bench-demo.mp4) · [Betaflight orientation check](docs/media/betaflight-orientation-demo.mp4)
 
 A personal 5-inch FPV quadcopter project by **Adam Abu Toamy**, documenting mechanical assembly, electronics integration, Betaflight configuration and hands-on fault diagnosis.
 
@@ -51,7 +50,7 @@ This is a record of a specific repair, not a general replacement recommendation.
 
 ## Media and configuration
 
-Actual assembly and repair photos and two compact bench videos are now bundled. The supplied media shows wiring work, the exposed ESC, the donor graphics card, component rework and the aircraft beside Betaflight. [View the gallery and source register](docs/MEDIA_SOURCES.md). These are real recordings, not a simulated aircraft.
+Six original owner-supplied photographs are included byte-for-byte. They show assembly, wiring, the repair bench, ESC, donor graphics card and component rework. [Original photo gallery](docs/MEDIA_SOURCES.md). No video frames, GIFs or re-encoded clips are used.
 
 A current Betaflight configuration export, exact wiring diagram and flight footage have not been recovered. There are no invented firmware files, guessed PID settings, flight-time figures or test results in this repository.
 
