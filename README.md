@@ -1,5 +1,7 @@
 # FPV Drone — Build, Diagnose, Repair
 
+> **Work in progress — active personal project.** Hardware, software and testing are still being developed.
+
 <img src="docs/media/drone-built.jpg" alt="The real assembled FPV drone on the workbench" width="430">
 
 [Watch the bench overview](docs/media/drone-bench-demo.mp4) · [Betaflight orientation check](docs/media/betaflight-orientation-demo.mp4)
