@@ -1,66 +1,66 @@
-# FPV Drone — Build, Diagnose, Repair
+# FPV Drone — Build and Repair
 
-> **Work in progress — active personal project.** Hardware, software and testing are still being developed.
+> **Work in progress.** A personal FPV quadcopter project by **Adam Abu Toamy**.
 
-![Original drone repair-bench photo](docs/media/20260917_181246.jpg)
+[العربية](README_AR.md) · [Hardware register](docs/HARDWARE.md) · [Repair log](docs/REPAIR_LOG.md)
 
+## Media gallery
 
-A personal 5-inch FPV quadcopter project by **Adam Abu Toamy**, documenting mechanical assembly, electronics integration, Betaflight configuration and hands-on fault diagnosis.
+Six original photographs supplied by the owner. The files are unchanged; the page only limits their display width.
 
-[العربية](README_AR.md) · [Hardware](docs/HARDWARE.md) · [Repair story](docs/REPAIR_LOG.md) · [Evidence and status](docs/EVIDENCE.md)
+| Assembly and wiring | Build details |
+| --- | --- |
+| <img src="docs/media/20260903_023007.jpg" width="360" alt="Original assembly photo"> | <img src="docs/media/20260903_023031.jpg" width="360" alt="Original wiring photo"> |
+| <img src="docs/media/20260917_181246.jpg" width="360" alt="Original repair-bench photo"> | <img src="docs/media/20260917_181249.jpg" width="360" alt="Original ESC photo"> |
+| <img src="docs/media/20260917_181548.jpg" width="360" alt="Original donor-board photo"> | <img src="docs/media/20260917_190053.jpg" width="360" alt="Original component-work photo"> |
 
-## The project
+[Original file register](docs/MEDIA_SOURCES.md)
 
-I assembled and configured an FPV drone, worked through hardware and firmware problems, and repaired the electronics after a hard landing. This repository records the engineering work behind the build: wiring, soldering, configuration, fault isolation and learning from tests.
+## Project and my work
 
-**Recorded milestone:** an initial flight and hard landing, followed by motor/ESC troubleshooting and an ESC repair reported working again. That is a historical build milestone, not a claim of current flight readiness or measured performance.
+I assembled and wired a 5-inch FPV drone, configured it with Betaflight, and worked through setup and electronics faults. After an initial flight ended in a hard landing, I investigated motor and ESC damage and reported the drone working again after an ESC repair. This is a historical milestone; the project remains in development.
 
-## My contribution
+My contribution covers assembly, wiring, soldering, configuration and fault diagnosis. Betaflight is third-party firmware, not a flight controller algorithm I wrote.
 
-- Mechanical assembly and electronics integration.
-- Wiring, soldering and flight-controller configuration with Betaflight.
-- Diagnosis of sensor/firmware and radio-link issues during setup.
-- Motor and ESC fault isolation after a hard landing.
-- Component-level ESC repair and simulator practice in Liftoff.
+## Parts
 
-The flight-controller firmware is third-party software. This repository does not claim authorship of Betaflight or a custom flight-control algorithm.
-
-## Build snapshot
-
-| Part | Recovered information |
+| Component | Confirmed information / missing detail |
 | --- | --- |
 | Frame | Mark4, 5-inch |
-| Battery | 4S LiPo; capacity and C rating not yet recovered |
-| ESC | 60 A; exact model/revision to document |
-| Flight controller | F722-class in earlier project summaries; exact board identification pending |
-| Motors | Brushless; current installed model and KV not yet confirmed |
-| Propellers | 5-inch; exact model/pitch pending |
-| Radio | ExpressLRS receiver and RadioMaster transmitter; exact models pending |
-| FPV system | Earlier project summary names Walksnail digital FPV; exact hardware pending |
-| Configuration tool | Betaflight |
-| Simulator | Liftoff |
+| Battery | 4S LiPo; capacity and C rating not confirmed |
+| ESC | 60 A; exact model/revision not confirmed |
+| Motors | Brushless; current model and KV not confirmed |
+| Propellers | 5-inch; exact model/pitch not confirmed |
+| Radio link | ExpressLRS receiver and RadioMaster transmitter; exact models not confirmed |
+| Flight controller | Used in the build; exact board and firmware target not confirmed |
+| FPV system | Present in the recorded build; exact model not confirmed |
+| Configuration / training software | Betaflight / Liftoff |
 
-See [hardware evidence](docs/HARDWARE.md) before treating this table as a complete bill of materials.
+Unconfirmed shopping-list recommendations are not treated as installed components. See [hardware register](docs/HARDWARE.md).
 
-## A repair worth documenting
+## Difficulties and what happened
 
-A hard landing damaged a motor. Later troubleshooting identified an ESC short and a failed MOSFET. I reported replacing the failed component with a similar MOSFET salvaged from a used GTX 1050 Ti, after which the drone worked again.
+| Difficulty encountered | Recorded work / outcome |
+| --- | --- |
+| Sensor detection and firmware setup | Connection, voltage and firmware/configuration checks; connections were isolated during diagnosis |
+| Telemetry loss under throttle while using a smoke stopper | Voltage drop was discussed during troubleshooting; no blanket claim that every power/radio issue is resolved |
+| Hard landing and motor damage | A motor rubbed/caught during inspection; motor/ESC fault isolation followed |
+| ESC short and failed MOSFET | Multimeter diagnosis; a similar MOSFET was salvaged from a used GTX 1050 Ti and fitted; operation was reported restored |
+| Limited flight experience | Practised in Liftoff before returning to real flight |
 
-This is a record of a specific repair, not a general replacement recommendation. The exact component markings, electrical compatibility and post-repair endurance measurements were not recovered. See the [repair log](docs/REPAIR_LOG.md).
+The MOSFET markings, compatibility measurements and long-term repair endurance were not recovered. The repair account is not a general component-substitution guide.
 
-## Media and configuration
+## Development stages
 
-Six original owner-supplied photographs are included byte-for-byte. They show assembly, wiring, the repair bench, ESC, donor graphics card and component rework. [Original photo gallery](docs/MEDIA_SOURCES.md). No video frames, GIFs or re-encoded clips are used.
+| Stage | Status |
+| --- | --- |
+| Mechanical assembly, wiring and soldering | Carried out; original photographs above document the build |
+| Betaflight and FPV setup | Worked on during the build; final configuration export is not included |
+| Initial flight | Reported; ended in a hard landing |
+| Motor / ESC diagnosis and repair | Carried out; operation was reported restored |
+| Simulator practice and further tuning | Part of ongoing development |
+| Current condition, repeatable flight performance and complete component register | Still to be documented |
 
-A current Betaflight configuration export, exact wiring diagram and flight footage have not been recovered. There are no invented firmware files, guessed PID settings, flight-time figures or test results in this repository.
+## Current limits
 
-## Next documentation milestones
-
-- Add a dated current-status update and any future flight footage.
-- Record exact installed components and the wiring as built.
-- Archive a reviewed configuration export with the firmware version and target.
-- Record dated bench/flight observations and any continuing faults.
-
-## Project status
-
-The historical record covers assembly, setup, an initial flight incident and subsequent repair. Current condition and repeatable flight performance remain to be documented.
+No measured flight time, range, payload or certified flight readiness is claimed. This repository documents the work and its remaining gaps; it is not a completed aircraft release.
