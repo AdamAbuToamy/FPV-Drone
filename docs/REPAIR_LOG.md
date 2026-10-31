@@ -11,4 +11,8 @@ Reconstructed from earlier project conversations; dates are conversation anchors
 
 ## What the record does not establish
 
-Exact MOSFET markings, compatibility calculations, detailed measurements, repair photographs, extended load tests, current aircraft condition and measured flight performance were not recovered. This account does not certify ongoing electrical reliability or flight readiness.
+Exact MOSFET markings, compatibility calculations, detailed measurements, extended load tests, current aircraft condition and measured flight performance were not recovered. This account does not certify ongoing electrical reliability or flight readiness.
+
+## Photographic update — 1 November 2026
+
+Actual repair-bench, ESC, donor-GPU and component-rework photos are now available in the [media gallery](MEDIA_SOURCES.md). They corroborate the bench-work context; they do not independently establish the exact MOSFET identity or long-term reliability.
