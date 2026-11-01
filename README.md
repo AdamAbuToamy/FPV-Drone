@@ -52,7 +52,7 @@ The component list is being updated one part at a time from owner-provided detai
 | FPV goggles | CADDXFPV Walksnail Ascent Goggles; 5.8G, 1920 × 1080 screen resolution at 60 Hz; for the Ascent Lite VTX Kit |
 | Radio transmitter | RadioMaster Pocket ELRS; Hall gimbals, foldable antenna and built-in LED light |
 | Radio receiver | BETAFPV NANO 2400 RX ExpressLRS, 2.4 GHz; T-type antenna and Wi-Fi upgrade support |
-| Battery | 4S LiPo; 14.8 V nominal voltage, 1800 mAh capacity |
+| Battery | 4S LiPo; 14.8 V nominal voltage, 1800 mAh capacity, 45C discharge rating |
 
 The advertised specifications above come from the owner-supplied product title and are not measurements of this build.
 
