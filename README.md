@@ -73,6 +73,7 @@ My contribution covers assembly, wiring, soldering, configuration and fault diag
 | Propellers | 5-inch; exact model/pitch not confirmed |
 | Radio link | ExpressLRS receiver and RadioMaster transmitter; exact models not confirmed |
 | Flight controller | F7 F722; 30.5 × 30.5 mm stack mounting |
+| GPS module | HGLRC M100-5883 M10 with compass, ceramic antenna and LED; 21 × 21 mm |
 | FPV system | Present in the recorded build; exact model not confirmed |
 | Configuration / training software | Betaflight / Liftoff |
 
