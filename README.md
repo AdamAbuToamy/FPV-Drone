@@ -6,7 +6,7 @@
 
 ## Media gallery
 
-**All supplied media: 6 photos and 6 recordings.** Audio tracks have been removed. Each complete recording is provided as one compressed H.264 file without splitting, with all frames retained.
+**Gallery: 6 original photos and 3 selected recordings.** Audio tracks have been removed. Each complete recording is provided as one compressed H.264 file without splitting, with all frames retained.
 
 ### Photos
 
@@ -18,29 +18,17 @@
 
 ### Videos — no audio
 
-#### 01 · 20260903_074254.mp4
-
-https://github.com/user-attachments/assets/1832021f-911c-43dc-bf5b-3adcf92904a7
-
-#### 02 · 20260903_074309.mp4
+#### 01 · 20260903_074309.mp4
 
 https://github.com/user-attachments/assets/ecb07d8c-bf21-468a-a1ed-116fed333df2
 
-#### 03 · 20260904_043352.mp4
-
-https://github.com/user-attachments/assets/1a21ee36-bae6-43f8-967c-7d81d91e7638
-
-#### 04 · 20260905_015915.mp4
+#### 02 · 20260905_015915.mp4
 
 https://github.com/user-attachments/assets/4fea01d5-7573-4ffe-8d09-32b068560a1e
 
-#### 05 · 20260906_021615.mp4
+#### 03 · 20260906_021615.mp4
 
 https://github.com/user-attachments/assets/f38df564-b9a4-4d5c-a8b0-b781beecd3ea
-
-#### 06 · 20260917_154932.mp4
-
-https://github.com/user-attachments/assets/bd09eb96-bc9e-4bf7-8dc9-ef7c41a300f0
 
 [Media inventory](docs/MEDIA_SOURCES.md)
 
@@ -60,6 +48,9 @@ The component list is being updated one part at a time from owner-provided detai
 | ESC | 60 A 4-in-1 BLHeli_S; 30.5 × 30.5 mm stack mounting |
 | Motors | 4 × RS2205 2300KV; two CW/CCW pairs |
 | GPS | HGLRC M100-5883 M10; compass, ceramic antenna and LED; 21 × 21 mm |
+| Digital FPV system | CADDX Walksnail Ascent Lite VTX Kit; supplied product-title specifications: 1080p/60fps, 35 ms latency, 3 km range; for Ascent FPV goggles |
+
+The advertised specifications above come from the owner-supplied product title and are not measurements of this build.
 
 ## Difficulties and what happened
 
