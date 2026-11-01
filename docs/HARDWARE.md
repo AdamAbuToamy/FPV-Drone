@@ -4,6 +4,7 @@ The component list is updated one part at a time from owner-provided details.
 
 | Component | Specification |
 | --- | --- |
+| Frame | Mark4 carbon fiber, 5-inch; 225 mm wheelbase, 5 mm arm thickness |
 | Flight controller | F7 F722 |
 | ESC | 60 A 4-in-1 BLHeli_S; 30.5 × 30.5 mm stack mounting |
 | Motors | 4 × RS2205 2300KV; two CW/CCW pairs |
