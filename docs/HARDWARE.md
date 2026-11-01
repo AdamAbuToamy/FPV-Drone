@@ -9,6 +9,7 @@
 | Propellers | 5-inch | Model and pitch |
 | Radio link | ExpressLRS receiver / RadioMaster transmitter | Exact receiver and transmitter models |
 | Flight controller | F7 F722; stack mounting 30.5 × 30.5 mm | Owner-confirmed specification |
+| GPS module | HGLRC M100-5883 M10 with compass, ceramic antenna and LED; 21 × 21 mm | Owner-confirmed specification |
 | FPV system | Present in the recorded build | Exact camera / transmitter / display models |
 
 The record is incomplete. Shopping-list options and tentative board identifications are not treated as installed parts. No guessed gyro chip, firmware target, pinout or motor specification is supplied.
