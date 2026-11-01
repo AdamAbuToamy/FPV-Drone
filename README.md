@@ -6,7 +6,7 @@
 
 ## Media gallery
 
-**All supplied media: 6 original photos and 6 original recordings.** Every video below has its audio track removed. Video frames were copied without re-encoding. Large recordings are presented in numbered consecutive parts; all original video packets are retained.
+**All supplied media: 6 photos and 6 recordings.** Audio tracks have been removed. Each complete recording is provided as one compressed H.264 file without splitting, with all frames retained.
 
 ### Photos
 
@@ -20,41 +20,29 @@
 
 #### 01 · 20260903_074254.mp4
 
-https://github.com/user-attachments/assets/339ed626-3194-44b6-aee0-c97dae2871ad
+https://github.com/user-attachments/assets/1832021f-911c-43dc-bf5b-3adcf92904a7
 
 #### 02 · 20260903_074309.mp4
 
-**Part 1 / 2**
-
-https://github.com/user-attachments/assets/dee5e435-76dd-4034-8eb6-3bd4327793f6
-
-**Part 2 / 2**
-
-https://github.com/user-attachments/assets/13b7a4aa-8cb2-4dad-a182-b407af5a3976
+https://github.com/user-attachments/assets/ecb07d8c-bf21-468a-a1ed-116fed333df2
 
 #### 03 · 20260904_043352.mp4
 
-**Part 1 / 2**
-
-https://github.com/user-attachments/assets/8e3fc69a-f6c3-47dd-91f1-f4ea5fea364a
-
-**Part 2 / 2**
-
-https://github.com/user-attachments/assets/ee102eb8-1f78-4f44-8143-e631157153dc
+https://github.com/user-attachments/assets/1a21ee36-bae6-43f8-967c-7d81d91e7638
 
 #### 04 · 20260905_015915.mp4
 
-https://github.com/user-attachments/assets/6bb4f98e-62a1-4b6c-a81d-266df31c4ae2
+https://github.com/user-attachments/assets/4fea01d5-7573-4ffe-8d09-32b068560a1e
 
 #### 05 · 20260906_021615.mp4
 
-https://github.com/user-attachments/assets/21cfbd32-adca-454b-84b0-b1329708a2ee
+https://github.com/user-attachments/assets/f38df564-b9a4-4d5c-a8b0-b781beecd3ea
 
 #### 06 · 20260917_154932.mp4
 
-https://github.com/user-attachments/assets/42ae3da9-a804-4ace-8616-e8e0ee8b7744
+https://github.com/user-attachments/assets/bd09eb96-bc9e-4bf7-8dc9-ef7c41a300f0
 
-[Media inventory and processing verification](docs/MEDIA_SOURCES.md)
+[Media inventory](docs/MEDIA_SOURCES.md)
 
 ## Project and my work
 
@@ -64,20 +52,14 @@ My contribution covers assembly, wiring, soldering, configuration and fault diag
 
 ## Parts
 
-| Component | Confirmed information / missing detail |
-| --- | --- |
-| Frame | Mark4, 5-inch |
-| Battery | 4S LiPo; capacity and C rating not confirmed |
-| ESC | 60 A, 4-in-1, BLHeli_S; 30.5 × 30.5 mm stack mounting |
-| Motors | 4 × RS2205 2300KV brushless motors; two CW/CCW pairs |
-| Propellers | 5-inch; exact model/pitch not confirmed |
-| Radio link | ExpressLRS receiver and RadioMaster transmitter; exact models not confirmed |
-| Flight controller | F7 F722; 30.5 × 30.5 mm stack mounting |
-| GPS module | HGLRC M100-5883 M10 with compass, ceramic antenna and LED; 21 × 21 mm |
-| FPV system | Present in the recorded build; exact model not confirmed |
-| Configuration / training software | Betaflight / Liftoff |
+The component list is being updated one part at a time from owner-provided details.
 
-Unconfirmed shopping-list recommendations are not treated as installed components. See [hardware register](docs/HARDWARE.md).
+| Component | Specification |
+| --- | --- |
+| Flight controller | F7 F722 |
+| ESC | 60 A 4-in-1 BLHeli_S; 30.5 × 30.5 mm stack mounting |
+| Motors | 4 × RS2205 2300KV; two CW/CCW pairs |
+| GPS | HGLRC M100-5883 M10; compass, ceramic antenna and LED; 21 × 21 mm |
 
 ## Difficulties and what happened
 
