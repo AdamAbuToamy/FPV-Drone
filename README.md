@@ -47,6 +47,7 @@ The component list is being updated one part at a time from owner-provided detai
 | Flight controller | F7 F722 |
 | ESC | 60 A 4-in-1 BLHeli_S; 30.5 × 30.5 mm stack mounting |
 | Motors | 4 × RS2205 2300KV; two CW/CCW pairs |
+| Propellers | Gemfan 51466 V2; 5-inch, three-blade; 4 propellers / 2 pairs |
 | GPS | HGLRC M100-5883 M10; compass, ceramic antenna and LED; 21 × 21 mm |
 | Digital FPV system | CADDX Walksnail Ascent Lite VTX Kit; supplied product-title specifications: 1080p/60fps, 35 ms latency, 3 km range; for Ascent FPV goggles |
 | FPV goggles | CADDXFPV Walksnail Ascent Goggles; 5.8G, 1920 × 1080 screen resolution at 60 Hz; for the Ascent Lite VTX Kit |
