@@ -1,14 +1,14 @@
 # Hardware register
 
-| Component | Confirmed record | Detail still missing |
+| Component | Specification / recorded information | Record |
 | --- | --- | --- |
 | Frame | Mark4, 5-inch | — |
 | Battery | 4S LiPo | Capacity and C rating |
-| ESC | 60 A | Exact model / revision |
+| ESC | 60 A, 4-in-1, BLHeli_S; stack mounting 30.5 × 30.5 mm | Owner-confirmed specification |
 | Motors | Brushless motors used in the build | Current installed model and KV |
 | Propellers | 5-inch | Model and pitch |
 | Radio link | ExpressLRS receiver / RadioMaster transmitter | Exact receiver and transmitter models |
-| Flight controller | Used and configured during the build | Exact board identity and firmware target |
+| Flight controller | F7 F722; stack mounting 30.5 × 30.5 mm | Owner-confirmed specification |
 | FPV system | Present in the recorded build | Exact camera / transmitter / display models |
 
 The record is incomplete. Shopping-list options and tentative board identifications are not treated as installed parts. No guessed gyro chip, firmware target, pinout or motor specification is supplied.
