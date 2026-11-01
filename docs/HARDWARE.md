@@ -15,6 +15,7 @@ The component list is updated one part at a time from owner-provided details.
 | Radio transmitter | RadioMaster Pocket ELRS; Hall gimbals, foldable antenna and built-in LED light |
 | Radio receiver | BETAFPV NANO 2400 RX ExpressLRS, 2.4 GHz; T-type antenna and Wi-Fi upgrade support |
 | Battery | 4S LiPo; 14.8 V nominal voltage, 1800 mAh capacity, 45C discharge rating; XT60 connector |
+| Battery charger | IMAX B6, 80 W; T / Tamiya / XT60 connectors |
 
 Advertised performance is transcribed from the owner-supplied product title; it has not been measured on this build.
 
