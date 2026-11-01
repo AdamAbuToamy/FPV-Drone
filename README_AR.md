@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/f38df564-b9a4-4d5c-a8b0-b781beecd3ea
 | GPS | HGLRC M100-5883 M10؛ بوصلة وهوائي سيراميكي وLED؛ 21 × 21 مم |
 | نظام FPV الرقمي | CADDX Walksnail Ascent Lite VTX Kit؛ مواصفات عنوان المنتج المرسل: 1080p/60fps، تأخير 35ms ومدى 3km؛ مخصص لنظارات Ascent FPV |
 | نظارة FPV | CADDXFPV Walksnail Ascent Goggles؛ ‏5.8G، دقة شاشة 1920 × 1080 بتردد 60Hz؛ لطقم Ascent Lite VTX |
-| ريموت التحكم | RadioMaster Pocket؛ عصا تحكم Hall Gimbal، هوائي قابل للطي وإضاءة LED مدمجة |
+| ريموت التحكم | RadioMaster Pocket ELRS؛ عصا تحكم Hall Gimbal، هوائي قابل للطي وإضاءة LED مدمجة |
 
 المواصفات المعلنة أعلاه من عنوان المنتج الذي قدّمه صاحب المشروع، وليست نتائج قياس لهذا البناء.
 
