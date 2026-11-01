@@ -6,7 +6,9 @@
 
 ## Media gallery
 
-Six original photographs supplied by the owner. The files are unchanged; the page only limits their display width.
+**All supplied media: 6 original photos and 6 original recordings.** Every video below has its audio track removed. Video frames were copied without re-encoding. Large recordings are presented in numbered consecutive parts; all original video packets are retained.
+
+### Photos
 
 | Assembly and wiring | Build details |
 | --- | --- |
@@ -14,7 +16,45 @@ Six original photographs supplied by the owner. The files are unchanged; the pag
 | <img src="docs/media/20260917_181246.jpg" width="360" alt="Original repair-bench photo"> | <img src="docs/media/20260917_181249.jpg" width="360" alt="Original ESC photo"> |
 | <img src="docs/media/20260917_181548.jpg" width="360" alt="Original donor-board photo"> | <img src="docs/media/20260917_190053.jpg" width="360" alt="Original component-work photo"> |
 
-[Original file register](docs/MEDIA_SOURCES.md)
+### Videos — no audio
+
+#### 01 · 20260903_074254.mp4
+
+https://github.com/user-attachments/assets/339ed626-3194-44b6-aee0-c97dae2871ad
+
+#### 02 · 20260903_074309.mp4
+
+**Part 1 / 2**
+
+https://github.com/user-attachments/assets/dee5e435-76dd-4034-8eb6-3bd4327793f6
+
+**Part 2 / 2**
+
+https://github.com/user-attachments/assets/13b7a4aa-8cb2-4dad-a182-b407af5a3976
+
+#### 03 · 20260904_043352.mp4
+
+**Part 1 / 2**
+
+https://github.com/user-attachments/assets/8e3fc69a-f6c3-47dd-91f1-f4ea5fea364a
+
+**Part 2 / 2**
+
+https://github.com/user-attachments/assets/ee102eb8-1f78-4f44-8143-e631157153dc
+
+#### 04 · 20260905_015915.mp4
+
+https://github.com/user-attachments/assets/6bb4f98e-62a1-4b6c-a81d-266df31c4ae2
+
+#### 05 · 20260906_021615.mp4
+
+https://github.com/user-attachments/assets/21cfbd32-adca-454b-84b0-b1329708a2ee
+
+#### 06 · 20260917_154932.mp4
+
+https://github.com/user-attachments/assets/42ae3da9-a804-4ace-8616-e8e0ee8b7744
+
+[Media inventory and processing verification](docs/MEDIA_SOURCES.md)
 
 ## Project and my work
 
