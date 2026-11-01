@@ -5,7 +5,7 @@
 | Frame | Mark4, 5-inch | — |
 | Battery | 4S LiPo | Capacity and C rating |
 | ESC | 60 A, 4-in-1, BLHeli_S; stack mounting 30.5 × 30.5 mm | Owner-confirmed specification |
-| Motors | Brushless motors used in the build | Current installed model and KV |
+| Motors | 4 × RS2205 2300KV brushless motors; two CW/CCW pairs | Owner-confirmed specification |
 | Propellers | 5-inch | Model and pitch |
 | Radio link | ExpressLRS receiver / RadioMaster transmitter | Exact receiver and transmitter models |
 | Flight controller | F7 F722; stack mounting 30.5 × 30.5 mm | Owner-confirmed specification |
