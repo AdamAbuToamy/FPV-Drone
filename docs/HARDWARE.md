@@ -1,18 +1,16 @@
 # Hardware register
 
-| Component | Specification / recorded information | Record |
-| --- | --- | --- |
-| Frame | Mark4, 5-inch | — |
-| Battery | 4S LiPo | Capacity and C rating |
-| ESC | 60 A, 4-in-1, BLHeli_S; stack mounting 30.5 × 30.5 mm | Owner-confirmed specification |
-| Motors | 4 × RS2205 2300KV brushless motors; two CW/CCW pairs | Owner-confirmed specification |
-| Propellers | 5-inch | Model and pitch |
-| Radio link | ExpressLRS receiver / RadioMaster transmitter | Exact receiver and transmitter models |
-| Flight controller | F7 F722; stack mounting 30.5 × 30.5 mm | Owner-confirmed specification |
-| GPS module | HGLRC M100-5883 M10 with compass, ceramic antenna and LED; 21 × 21 mm | Owner-confirmed specification |
-| FPV system | Present in the recorded build | Exact camera / transmitter / display models |
+The component list is updated one part at a time from owner-provided details.
 
-The record is incomplete. Shopping-list options and tentative board identifications are not treated as installed parts. No guessed gyro chip, firmware target, pinout or motor specification is supplied.
+| Component | Specification |
+| --- | --- |
+| Flight controller | F7 F722 |
+| ESC | 60 A 4-in-1 BLHeli_S; 30.5 × 30.5 mm stack mounting |
+| Motors | 4 × RS2205 2300KV; two CW/CCW pairs |
+| GPS | HGLRC M100-5883 M10; compass, ceramic antenna and LED; 21 × 21 mm |
+| Digital FPV system | CADDX Walksnail Ascent Lite VTX Kit; owner-supplied product title lists 1080p/60fps, 35 ms latency, 3 km range and compatibility with Ascent FPV goggles |
+
+Advertised performance is transcribed from the owner-supplied product title; it has not been measured on this build.
 
 ## Wiring
 
