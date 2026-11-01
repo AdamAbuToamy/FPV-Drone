@@ -50,6 +50,7 @@ The component list is being updated one part at a time from owner-provided detai
 | GPS | HGLRC M100-5883 M10; compass, ceramic antenna and LED; 21 × 21 mm |
 | Digital FPV system | CADDX Walksnail Ascent Lite VTX Kit; supplied product-title specifications: 1080p/60fps, 35 ms latency, 3 km range; for Ascent FPV goggles |
 | FPV goggles | CADDXFPV Walksnail Ascent Goggles; 5.8G, 1920 × 1080 screen resolution at 60 Hz; for the Ascent Lite VTX Kit |
+| Radio transmitter | RadioMaster Pocket; Hall gimbals, foldable antenna and built-in LED light |
 
 The advertised specifications above come from the owner-supplied product title and are not measurements of this build.
 
