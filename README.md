@@ -69,7 +69,7 @@ My contribution covers assembly, wiring, soldering, configuration and fault diag
 | Frame | Mark4, 5-inch |
 | Battery | 4S LiPo; capacity and C rating not confirmed |
 | ESC | 60 A, 4-in-1, BLHeli_S; 30.5 × 30.5 mm stack mounting |
-| Motors | Brushless; current model and KV not confirmed |
+| Motors | 4 × RS2205 2300KV brushless motors; two CW/CCW pairs |
 | Propellers | 5-inch; exact model/pitch not confirmed |
 | Radio link | ExpressLRS receiver and RadioMaster transmitter; exact models not confirmed |
 | Flight controller | F7 F722; 30.5 × 30.5 mm stack mounting |
