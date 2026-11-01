@@ -6,7 +6,7 @@
 
 ## معرض الميديا
 
-**كل الوسائط المرسلة: 6 صور أصلية و6 تسجيلات أصلية.** حُذف المسار الصوتي من كل فيديو. نُقلت إطارات الفيديو دون إعادة ترميز، وعُرضت التسجيلات الكبيرة بأجزاء متتابعة مرقمة مع الاحتفاظ بجميع بيانات الفيديو الأصلية.
+**كل الوسائط المرسلة: 6 صور و6 تسجيلات.** حُذفت المسارات الصوتية من جميع الفيديوهات. كل تسجيل كامل مضغوط بصيغة H.264 في ملف واحد دون تقسيم، مع الاحتفاظ بجميع إطاراته.
 
 ### الصور
 
@@ -20,41 +20,29 @@
 
 #### 01 · 20260903_074254.mp4
 
-https://github.com/user-attachments/assets/339ed626-3194-44b6-aee0-c97dae2871ad
+https://github.com/user-attachments/assets/1832021f-911c-43dc-bf5b-3adcf92904a7
 
 #### 02 · 20260903_074309.mp4
 
-**الجزء 1 / 2**
-
-https://github.com/user-attachments/assets/dee5e435-76dd-4034-8eb6-3bd4327793f6
-
-**الجزء 2 / 2**
-
-https://github.com/user-attachments/assets/13b7a4aa-8cb2-4dad-a182-b407af5a3976
+https://github.com/user-attachments/assets/ecb07d8c-bf21-468a-a1ed-116fed333df2
 
 #### 03 · 20260904_043352.mp4
 
-**الجزء 1 / 2**
-
-https://github.com/user-attachments/assets/8e3fc69a-f6c3-47dd-91f1-f4ea5fea364a
-
-**الجزء 2 / 2**
-
-https://github.com/user-attachments/assets/ee102eb8-1f78-4f44-8143-e631157153dc
+https://github.com/user-attachments/assets/1a21ee36-bae6-43f8-967c-7d81d91e7638
 
 #### 04 · 20260905_015915.mp4
 
-https://github.com/user-attachments/assets/6bb4f98e-62a1-4b6c-a81d-266df31c4ae2
+https://github.com/user-attachments/assets/4fea01d5-7573-4ffe-8d09-32b068560a1e
 
 #### 05 · 20260906_021615.mp4
 
-https://github.com/user-attachments/assets/21cfbd32-adca-454b-84b0-b1329708a2ee
+https://github.com/user-attachments/assets/f38df564-b9a4-4d5c-a8b0-b781beecd3ea
 
 #### 06 · 20260917_154932.mp4
 
-https://github.com/user-attachments/assets/42ae3da9-a804-4ace-8616-e8e0ee8b7744
+https://github.com/user-attachments/assets/bd09eb96-bc9e-4bf7-8dc9-ef7c41a300f0
 
-[جرد الوسائط والتحقق من حذف الصوت](docs/MEDIA_SOURCES.md)
+[Media inventory](docs/MEDIA_SOURCES.md)
 
 ## المشروع ومساهمتي
 
@@ -64,20 +52,14 @@ https://github.com/user-attachments/assets/42ae3da9-a804-4ace-8616-e8e0ee8b7744
 
 ## القطع
 
-| القطعة | المؤكد / التفاصيل الناقصة |
-| --- | --- |
-| الهيكل | Mark4، بقياس 5 إنش |
-| البطارية | LiPo ‏4S؛ السعة ومعدل التفريغ غير مؤكدين |
-| ESC | ‏60A، ‏4-in-1، بنظام BLHeli_S؛ مقاس تثبيت الـStack ‏30.5 × 30.5 مم |
-| المحركات | ‏4 × RS2205 ‏2300KV، زوجان باتجاهي CW/CCW |
-| المراوح | 5 إنش؛ الموديل والخطوة غير مؤكدين |
-| التحكم اللاسلكي | مستقبل ExpressLRS وريموت RadioMaster؛ الموديلات الدقيقة غير مؤكدة |
-| متحكم الطيران | F7 F722؛ مقاس تثبيت الـStack ‏30.5 × 30.5 مم |
-| وحدة GPS | HGLRC M100-5883 M10، مع بوصلة وهوائي سيراميكي وLED؛ ‏21 × 21 مم |
-| نظام FPV | موجود في البناء الموثق؛ الموديل الدقيق غير مؤكد |
-| برامج الإعداد والتدريب | Betaflight وLiftoff |
+تُحدّث قائمة القطع بالتتابع وفق التفاصيل التي يقدّمها صاحب المشروع.
 
-لم أعتبر اقتراحات الشراء القديمة دليلًا على أن القطع مركبة. [سجل القطع](docs/HARDWARE.md).
+| القطعة | المواصفات |
+| --- | --- |
+| متحكم الطيران | F7 F722 |
+| ESC | 60A 4-in-1 BLHeli_S؛ تثبيت Stack بقياس 30.5 × 30.5 مم |
+| المحركات | 4 × RS2205 2300KV؛ زوجان CW/CCW |
+| GPS | HGLRC M100-5883 M10؛ بوصلة وهوائي سيراميكي وLED؛ 21 × 21 مم |
 
 ## الصعوبات وما حدث
 
