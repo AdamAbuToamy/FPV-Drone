@@ -6,7 +6,7 @@
 
 ## معرض الميديا
 
-**كل الوسائط المرسلة: 6 صور و6 تسجيلات.** حُذفت المسارات الصوتية من جميع الفيديوهات. كل تسجيل كامل مضغوط بصيغة H.264 في ملف واحد دون تقسيم، مع الاحتفاظ بجميع إطاراته.
+**المعرض: 6 صور أصلية و3 تسجيلات مختارة.** حُذفت المسارات الصوتية من جميع الفيديوهات. كل تسجيل كامل مضغوط بصيغة H.264 في ملف واحد دون تقسيم، مع الاحتفاظ بجميع إطاراته.
 
 ### الصور
 
@@ -18,29 +18,17 @@
 
 ### الفيديوهات — دون صوت
 
-#### 01 · 20260903_074254.mp4
-
-https://github.com/user-attachments/assets/1832021f-911c-43dc-bf5b-3adcf92904a7
-
-#### 02 · 20260903_074309.mp4
+#### 01 · 20260903_074309.mp4
 
 https://github.com/user-attachments/assets/ecb07d8c-bf21-468a-a1ed-116fed333df2
 
-#### 03 · 20260904_043352.mp4
-
-https://github.com/user-attachments/assets/1a21ee36-bae6-43f8-967c-7d81d91e7638
-
-#### 04 · 20260905_015915.mp4
+#### 02 · 20260905_015915.mp4
 
 https://github.com/user-attachments/assets/4fea01d5-7573-4ffe-8d09-32b068560a1e
 
-#### 05 · 20260906_021615.mp4
+#### 03 · 20260906_021615.mp4
 
 https://github.com/user-attachments/assets/f38df564-b9a4-4d5c-a8b0-b781beecd3ea
-
-#### 06 · 20260917_154932.mp4
-
-https://github.com/user-attachments/assets/bd09eb96-bc9e-4bf7-8dc9-ef7c41a300f0
 
 [Media inventory](docs/MEDIA_SOURCES.md)
 
@@ -60,6 +48,9 @@ https://github.com/user-attachments/assets/bd09eb96-bc9e-4bf7-8dc9-ef7c41a300f0
 | ESC | 60A 4-in-1 BLHeli_S؛ تثبيت Stack بقياس 30.5 × 30.5 مم |
 | المحركات | 4 × RS2205 2300KV؛ زوجان CW/CCW |
 | GPS | HGLRC M100-5883 M10؛ بوصلة وهوائي سيراميكي وLED؛ 21 × 21 مم |
+| نظام FPV الرقمي | CADDX Walksnail Ascent Lite VTX Kit؛ مواصفات عنوان المنتج المرسل: 1080p/60fps، تأخير 35ms ومدى 3km؛ مخصص لنظارات Ascent FPV |
+
+المواصفات المعلنة أعلاه من عنوان المنتج الذي قدّمه صاحب المشروع، وليست نتائج قياس لهذا البناء.
 
 ## الصعوبات وما حدث
 
