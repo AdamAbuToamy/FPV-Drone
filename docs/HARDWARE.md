@@ -9,6 +9,7 @@ The component list is updated one part at a time from owner-provided details.
 | Motors | 4 × RS2205 2300KV; two CW/CCW pairs |
 | GPS | HGLRC M100-5883 M10; compass, ceramic antenna and LED; 21 × 21 mm |
 | Digital FPV system | CADDX Walksnail Ascent Lite VTX Kit; owner-supplied product title lists 1080p/60fps, 35 ms latency, 3 km range and compatibility with Ascent FPV goggles |
+| FPV goggles | CADDXFPV Walksnail Ascent Goggles; 5.8G, 1920 × 1080 screen resolution at 60 Hz; for the Ascent Lite VTX Kit |
 
 Advertised performance is transcribed from the owner-supplied product title; it has not been measured on this build.
 
